@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">&#x5C0F;&#x7490;&#x4ECA;&#x5929;&#x5403;&#x4EC0;&#x4E48;</string>
+    <string name="title_activity_main">&#x5C0F;&#x7490;&#x4ECA;&#x5929;&#x5403;&#x4EC0;&#x4E48;</string>
+    <string name="package_name">com.xiaolu.foodwheel</string>
+    <string name="custom_url_scheme">com.xiaolu.foodwheel</string>
+</resources>

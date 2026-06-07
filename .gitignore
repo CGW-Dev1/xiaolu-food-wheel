@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+.npm-cache/
+
+# Android/Gradle build output and local machine config
+android/.gradle/
+android/build/
+android/app/build/
+android/app/src/main/assets/public/
+android/local.properties
+
+# Packaged binaries generated for local testing
+*.apk
